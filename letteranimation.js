@@ -1,4 +1,4 @@
-// Copyright start
+// Copyright START
 // © Code by T.RICKS, https://www.tricksdesign.com/
 // You have the license to use this code in your projects but not redistribute it to others
 
